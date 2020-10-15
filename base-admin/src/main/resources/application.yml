@@ -47,10 +47,10 @@ spring:
 #    password: 123456
 #    driver-class-name: com.mysql.cj.jdbc.Driver
 
-     url: jdbc:mysql://172.16.100.200:3306/hxwgamss?serverTimezone=GMT%2B8&characterEncoding=utf-8
-     username: root
-     password: hxyz@123456
-     driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://172.16.200.48:3306/test?serverTimezone=GMT%2B8&characterEncoding=utf-8
+      username: root
+      password: root
+      driver-class-name: com.mysql.cj.jdbc.Driver
 
 #是否需要输入验证码
 captcha:
@@ -68,9 +68,9 @@ spring:
 #    password: 123456
 #    driver-class-name: com.mysql.cj.jdbc.Driver
 
-      url: jdbc:mysql://172.16.100.200:3306/hxwgamss?serverTimezone=GMT%2B8&characterEncoding=utf-8
+      url: jdbc:mysql://172.16.200.48:3306/test?serverTimezone=GMT%2B8&characterEncoding=utf-8
       username: root
-      password: hxyz@123456
+      password: root
       driver-class-name: com.mysql.cj.jdbc.Driver
 
 #是否需要输入验证码
