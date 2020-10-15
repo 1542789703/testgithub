@@ -1,6 +1,6 @@
 ##### 公共 配置 #######
 
-#内置Tomcat容器配置
+#内置Tomcat容器配置  系统登录密码123456
 server:
   port: 8888
   servlet:
